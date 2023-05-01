@@ -1,0 +1,15 @@
+{
+  "name": "tages-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "create-input-file": "node ./utils/createInputUtil.js",
+    "start": "node index.js"
+  },
+  "author": "gkvermilion",
+  "license": "ISC",
+  "dependencies": {
+    "heap-js": "^2.2.0"
+  }
+}
